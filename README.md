@@ -1,7 +1,7 @@
 <!-- Level 1: Simple bio and stats -->
 
-### Hi, I'm Wilyvin!
-👋 Hi, I'm Magdeline!
+### 👋 Hi, I'm Wilyvin!
+
 👨🏻‍💻 Data Enthusiast
 👨🏻‍🎓 Studied Information Systems at the University of Mikroskil, Indonesia
 💭 Currently learning about data analytics and dataviz!
