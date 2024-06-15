@@ -9,3 +9,11 @@
 
 <!-- Github stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Wilyvin's GitHub stats](https://github-readme-stats.vercel.app/api?username=wilyvintanvee&show_icons=true&theme=transparent)
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/wilyvintanvee/) 
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=wilyvintanvee&theme=holi&no-frame=false&no-bg=true&margin-w=4)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
